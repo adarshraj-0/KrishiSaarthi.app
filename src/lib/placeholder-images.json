@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-banner",
+      "description": "A vibrant farm landscape with a farmer holding a basket of fresh vegetables.",
+      "imageUrl": "https://images.unsplash.com/photo-1543051932-6ef9fecfbc80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZmFybSUyMGxhbmRzY2FwZXxlbnwwfHx8fDE3NTkwNzc3ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "farm landscape"
+    },
+    {
+      "id": "tomatoes",
+      "description": "Fresh, ripe red tomatoes on the vine.",
+      "imageUrl": "https://images.unsplash.com/photo-1683009118753-1b059289e758?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmcmVzaCUyMHRvbWF0b2VzfGVufDB8fHx8MTc1OTA0MjI3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh tomatoes"
+    },
+    {
+      "id": "potatoes",
+      "description": "A pile of freshly harvested potatoes.",
+      "imageUrl": "https://images.unsplash.com/photo-1756361947495-7f56ed41ac38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoYXJ2ZXN0ZWQlMjBwb3RhdG9lc3xlbnwwfHx8fDE3NTkwMzU4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "harvested potatoes"
+    },
+    {
+      "id": "carrots",
+      "description": "A bunch of organic carrots with green tops.",
+      "imageUrl": "https://images.unsplash.com/photo-1663441041574-274dc77d17bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvcmdhbmljJTIwY2Fycm90c3xlbnwwfHx8fDE3NTg5ODc1MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "organic carrots"
+    },
+    {
+      "id": "wheat",
+      "description": "A field of golden wheat ready for harvest.",
+      "imageUrl": "https://images.unsplash.com/photo-1594842059196-5b6b8fa73187?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3aGVhdCUyMGZpZWxkfGVufDB8fHx8MTc1OTAzMzE2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wheat field"
+    },
+    {
+      "id": "apples",
+      "description": "A basket full of crisp red apples.",
+      "imageUrl": "https://images.unsplash.com/photo-1439127989242-c3749a012eac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyZWQlMjBhcHBsZXN8ZW58MHx8fHwxNzU5MDA5MjkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red apples"
+    },
+    {
+      "id": "spinach",
+      "description": "Lush green spinach leaves.",
+      "imageUrl": "https://images.unsplash.com/photo-1661328993728-1d5b08d9d7a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxncmVlbiUyMHNwaW5hY2h8ZW58MHx8fHwxNzU5MDc3Nzg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green spinach"
+    },
+    {
+      "id": "farmer-profile-1",
+      "description": "Profile picture of a smiling indian farmer.",
+      "imageUrl": "https://images.unsplash.com/photo-1623211269755-569fec0536d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjBmYXJtZXJ8ZW58MHx8fHwxNzU5MDQ0MzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian farmer"
+    },
+    {
+      "id": "farmer-profile-2",
+      "description": "Profile picture of a female farmer in their field.",
+      "imageUrl": "https://images.unsplash.com/photo-1651592278720-fd9479be2a9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmZW1hbGUlMjBmYXJtZXJ8ZW58MHx8fHwxNzU4OTczOTU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "female farmer"
+    },
+    {
+      "id": "farmer-profile-3",
+      "description": "Profile picture of a young farmer.",
+      "imageUrl": "https://images.unsplash.com/photo-1651592278720-fd9479be2a9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx5b3VuZyUyMGZhcm1lcnxlbnwwfHx8fDE3NTkwMDE3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "young farmer"
+    },
+    {
+      "id": "onions",
+      "description": "A pile of fresh red onions.",
+      "imageUrl": "https://images.unsplash.com/photo-1668295037469-8b0e8d11cd2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBvbmlvbnN8ZW58MHx8fHwxNzU5MDUzMzM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red onions"
+    },
+    {
+      "id": "grapes",
+      "description": "A bunch of purple grapes.",
+      "imageUrl": "https://images.unsplash.com/photo-1576037853772-70c662d1cfa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwdXJwbGUlMjBncmFwZXN8ZW58MHx8fHwxNzU5MDUzMzM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "purple grapes"
+    },
+    {
+      "id": "mangoes",
+      "description": "A pile of ripe yellow mangoes.",
+      "imageUrl": "https://images.unsplash.com/photo-1663018084454-86fd8150f950?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyaXBlJTIwbWFuZ29lc3xlbnwwfHx8fDE3NTkwNTMzMzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ripe mangoes"
+    }
+  ]
+}
